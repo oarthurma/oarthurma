@@ -1,4 +1,4 @@
-### Olá! Eu sou o Arthur Martins
+### Olá! Eu sou o Arthur Martins.
 
 - 🌱 Estudando lógica de programação
 - 📫 Contate-me no e-mail: oarthurma@gmail.com
