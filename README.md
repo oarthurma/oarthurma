@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Arthur Martins.
 
 - 🌱 Estudando lógica de programação, linguagem C e SQL
-- ![image](https://user-images.githubusercontent.com/121382433/210138391-ddba0251-195f-4783-87ee-07aa5631b39f.png)
+- ❤️ Linux
 - 📫 Contate-me no e-mail: oarthurma@gmail.com
 - 😄 Pronouns: ele/dele
 
