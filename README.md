@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Arthur Martins.
 
-- 🌱 Estudando lógica de programação, linguagem C e SQL
+- 🌱 Estudando Front-end Angular
 - ❤️ Linux
 - 📫 Contate-me no e-mail: oarthurma@gmail.com
 - 😄 Pronouns: ele/dele
