@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Arthur Martins.
 
 - 🌱 Estudando Front-end Angular
-- ❤️ Linux
+- ❤️ Arch linux com Hyprland
 - 📫 Contate-me no e-mail: oarthurma@gmail.com
 - 😄 Pronouns: ele/dele
 
