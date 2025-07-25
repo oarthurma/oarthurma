@@ -1,166 +1,59 @@
-### Olá! Eu sou o Arthur Martins Alves.
+<h1 align="center">Olá! Eu sou o Arthur Martins Alves</h1>
 
-- 🌱 Estudando Front-end Angular
-- ❤️ Arch linux com Hyprland
-
-
-
-
-
-
-<div>
-  <a href = "mailto:oarthurma@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/oarthurma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<p align="center">
+  🌱 Estudando Front‑end com foco em Angular<br>
+  ❤️ Usuário do Arch Linux + Hyprland
+</p>
 
 ---
 
-<!--
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oarthurma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarthurma&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-  
-  
+### 🛠️ Tecnologias que estou usando
 
-  </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://github.com/CSS-Next/logo.css/blob/main/css.svg">
-  <img align="center" alt="Arthur-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Arthur-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+<div style="display: inline_block">
+  <img align="center" title="HTML5" alt="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" title="CSS3" alt="CSS3" height="30" src="https://github.com/CSS-Next/logo.css/blob/main/css.svg" />
+  <img align="center" title="JavaScript" alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" title="TypeScript" alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" title="Git" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" title="Linux" alt="Linux" height="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
 </div>
--->
 
-### 🤖 Linguagens e Tecnologias
+<br/><br/>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/CSS-Next/logo.css/blob/main/css.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" 
-/>
+---
 
+### 📊 Estatísticas do GitHub
 
-<br/>
-<br/>
-
-
-
-
-### 📊 Estatísticas
-
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=oarthurma&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=oarthurma&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&hide_border=false" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarthurma&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarthurma&layout=compact&theme=dracula&langs_count=8&custom_title=Linguagens+mais+usadas" 
   />
-
 </p>
 
+---
 
+### 🚀 Projetos em Destaque
 
-<!--    
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oarthurma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarthurma&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" /></a> |
-| ------------- | ------------- |
--->  
+| Projeto | Descrição |
+|--------|-----------|
+| [**front-end-angular-ada-tech**](https://github.com/oarthurma/front-end-angular-ada-tech) | Projeto em Angular desenvolvido durante o curso da Ada Tech, com foco em estruturação de componentes, serviços e roteamento. |
+| [**javascript-poo-exercicios**](https://github.com/oarthurma/javascript-poo-exercicios) | Exercícios de Programação Orientada a Objetos em JavaScript moderno, para reforçar classes, herança e encapsulamento. |
+| [**api-via-cep**](https://github.com/oarthurma/api-via-cep) | Aplicação simples que consome a API ViaCEP utilizando `fetch` e `async/await` para prática de requisições assíncronas. |
 
-<!--
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+---
+
+### 📫 Contato
+
+<p align="center">
+  <a href="mailto:oarthurma@gmail.com">
+    <img src="https://img.shields.io/badge/Email-oarthurma@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/oarthurma" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-oarthurma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
--->
-
-
-
-<!--
-##
-
-
-
-
-<div>
-  <a href = "mailto:oarthurma@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/oarthurma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
--->
-
-
-
