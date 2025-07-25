@@ -74,23 +74,17 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarthurma&layout=compact&theme=dracula&custom_title=Linguagens&langs_count=8"
 />
 
-<br clear="both"/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 ---
 
-### 📬 Contato
+### 📫 Contato
 
-<div>
+<p align="left">
   <a href="mailto:oarthurma@gmail.com">
-    <img 
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-      alt="Gmail"
-    />
+    <img src="https://img.shields.io/badge/Email-oarthurma@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/oarthurma" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn"
-    />
-  </a> 
-</div>
+    <img src="https://img.shields.io/badge/LinkedIn-oarthurma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
