@@ -63,19 +63,12 @@
 
 ### 📊 Estatísticas do GitHub
 
-<img 
-  align="left" 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=oarthurma&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
-/>
-<img 
-  align="left" 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarthurma&layout=compact&theme=dracula&custom_title=Linguagens&langs_count=8"
-/>
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oarthurma&show_icons=true&theme=dracula&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarthurma&layout=compact&theme=dracula&custom_title=Linguagens&langs_count=8"/>
+</div>
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
+<br/><br/><br/>
 ---
 
 ### 📫 Contato
