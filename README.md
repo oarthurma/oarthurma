@@ -1,7 +1,7 @@
 ### 👋 Olá! Eu sou o Arthur Martins Alves
 
 🌱 Estudando Front-end com foco em Angular  
-❤️ Usuário do Arch Linux + Hyprland  
+❤️ Usuário Arch Linux + Hyprland  
 📚 *Lifelong learner*
 
 ---
