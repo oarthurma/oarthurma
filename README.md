@@ -12,7 +12,7 @@
     align="left" 
     alt="JAVA"
     title="JAVA" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" 
 />
