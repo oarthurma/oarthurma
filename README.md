@@ -12,9 +12,9 @@
     align="left" 
     alt="JAVA"
     title="JAVA" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" 
+    src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" 
 />
 
 
